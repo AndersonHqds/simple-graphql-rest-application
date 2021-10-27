@@ -1,0 +1,1 @@
+# simple-graphql-rest-application
