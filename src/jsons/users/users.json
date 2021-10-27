@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "_id": 1,
+            "name": "Anderson",
+            "username": "Andersonhqds"
+        },
+        {
+            "_id": 2,
+            "name": "Anderson",
+            "username": "Andersonhqds1"
+        },
+        {
+            "_id": 3,
+            "name": "Anderson",
+            "username": "Andersonhqds2"
+        },
+        {
+            "_id": 4,
+            "name": "Anderson",
+            "username": "henrique"
+        }
+    ]
+}
